@@ -23,7 +23,7 @@ function gree(hours) {
 
 /* Write your implementation of displayMessage() */
 function displayMessage(msg) {
-  
+  document.getElementById('greeting').innerHTML = mag;
 }
 
 
