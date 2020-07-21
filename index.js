@@ -10,7 +10,7 @@ function handleClick(e) {
 /* End Given Code, don't edit above here...*/
 
 /* Write your implementation of greet() */
-function gree(hours) {
+function greet(hours) {
     let time = parseInt(hours);
     alert(1);
     if(time < 12 ) {
