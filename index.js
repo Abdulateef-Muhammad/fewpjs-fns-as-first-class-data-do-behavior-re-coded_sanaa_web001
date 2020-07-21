@@ -22,7 +22,9 @@ function gree(hours) {
 }
 
 /* Write your implementation of displayMessage() */
-
+function displayMessage(msg) {
+  
+}
 
 
 
