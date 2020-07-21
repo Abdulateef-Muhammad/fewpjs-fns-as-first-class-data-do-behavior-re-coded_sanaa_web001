@@ -12,9 +12,9 @@ function handleClick(e) {
 /* Write your implementation of greet() */
 function gree(hours) {
     let time = parseInt(hours.toInt);
-    if(hours < 12 ) {
+    if(time < 12 ) {
       return 'Goood Morning';
-    } else if(hours >= 12 && hours <= 17) {
+    } else if(time >= 12 && time <= 17) {
       return 'Good Afternooon';
     } else {
       return 'Good Evening';
